@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarhanShahJahan
-- 👀 I’m interested in Software Engineering and also Data Science
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning R and R shiny for Data Science
 - 💞️ I’m looking to collaborate on any interesting projects
 
