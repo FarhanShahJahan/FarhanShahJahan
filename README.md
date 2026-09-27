@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @FarhanShahJahan
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning R and R shiny for Data Science
-- 💞️ I’m looking to collaborate on any interesting projects
+### Hi, I'm Farhan 👋
+
+Data Engineer on the Data Platform team at <insert company name >. I build and maintain the
+pipelines, orchestration, and tooling that keep data moving.
+
+🔧 Airflow · BigQuery · dbt · Kubernetes · Python · GCP · AWS
+💬 Ask me about orchestration, platform migrations, and data quality
+🤝 Open to collaborating on interesting projects
 
 
 <!---
